@@ -1,5 +1,5 @@
 # Codec Info
-# (c) [Nuker-Hoax]
+(c) [Nuker-Hoax]
 	
 Based on original version Codec-Control [http://www.autoitscript.com/forum/index.php?showtopic=64045]
 
