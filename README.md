@@ -1,7 +1,7 @@
-Name: Codec Info
-Author: [Nuker-Hoax]
+# Codec Info
+# (c) [Nuker-Hoax]
 	
-Based on original version Codec-Control [ http://www.autoitscript.com/forum/index.php?showtopic=64045 ]
+Based on original version Codec-Control [http://www.autoitscript.com/forum/index.php?showtopic=64045]
 
 Версия 1.2 (14.01.10)
  * Небольшое изменение размеров главного окна
@@ -17,4 +17,5 @@ Based on original version Codec-Control [ http://www.autoitscript.com/forum/inde
 Версия 1.0 (24.10.09)
  * Первая публичная версия
 
+original topic:
 http://autoit-script.ru/index.php?topic=866.0
